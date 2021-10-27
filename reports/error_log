@@ -1,0 +1,128 @@
+[10-Nov-2020 07:48:05 UTC] PHP Notice:  Undefined variable: getFilter in /home/irmr84fhuo6e/public_html/energreenph/hris/reports/export-salary-adj.php on line 40
+[10-Nov-2020 07:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/irmr84fhuo6e/public_html/energreenph/hris/reports/export-salary-adj.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/hris/reports/export-salary-adj.php on line 40
+[10-Nov-2020 07:48:17 UTC] PHP Notice:  Undefined variable: getFilter in /home/irmr84fhuo6e/public_html/energreenph/hris/reports/export-salary-adj.php on line 40
+[10-Nov-2020 07:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/irmr84fhuo6e/public_html/energreenph/hris/reports/export-salary-adj.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/hris/reports/export-salary-adj.php on line 40
+[10-Nov-2020 07:48:28 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/irmr84fhuo6e/public_html/energreenph/hris/includes/phpexcel/Classes/PHPExcel/Calculation/Functions.php on line 581
+[10-Nov-2020 07:48:28 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/irmr84fhuo6e/public_html/energreenph/hris/includes/phpexcel/Classes/PHPExcel/Calculation/Functions.php on line 581
+[10-Nov-2020 07:48:32 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/irmr84fhuo6e/public_html/energreenph/hris/includes/phpexcel/Classes/PHPExcel/Calculation/Functions.php on line 581
+[17-Nov-2020 05:19:30 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[17-Nov-2020 06:55:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[17-Nov-2020 06:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[17-Nov-2020 07:23:06 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar.php on line 105
+[17-Nov-2020 07:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[17-Nov-2020 08:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[17-Nov-2020 08:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[17-Nov-2020 08:52:12 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar.php on line 105
+[18-Nov-2020 00:26:08 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[18-Nov-2020 00:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[18-Nov-2020 00:57:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[18-Nov-2020 01:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[18-Nov-2020 01:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[18-Nov-2020 01:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[18-Nov-2020 01:21:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[18-Nov-2020 05:26:42 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar.php on line 105
+[18-Nov-2020 05:41:16 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[18-Nov-2020 07:36:38 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[18-Nov-2020 07:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[18-Nov-2020 08:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[18-Nov-2020 08:25:09 UTC] PHP Notice:  Undefined variable: department in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[18-Nov-2020 08:25:09 UTC] PHP Notice:  Undefined variable: business_unit in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[18-Nov-2020 08:29:09 UTC] PHP Notice:  Undefined variable: department in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[18-Nov-2020 08:32:30 UTC] PHP Notice:  Undefined variable: department in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[18-Nov-2020 08:32:30 UTC] PHP Notice:  Undefined variable: business_unit in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[18-Nov-2020 08:32:30 UTC] PHP Notice:  Undefined variable: location in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[18-Nov-2020 08:33:37 UTC] PHP Notice:  Undefined variable: department in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[19-Nov-2020 00:21:20 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[19-Nov-2020 00:43:39 UTC] PHP Notice:  Undefined variable: department in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/add_job.php on line 15
+[19-Nov-2020 00:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[19-Nov-2020 01:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[19-Nov-2020 01:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[19-Nov-2020 01:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[19-Nov-2020 01:32:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[19-Nov-2020 01:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[19-Nov-2020 02:21:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_province.php on line 3
+[19-Nov-2020 02:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/get_provincial.php on line 3
+[19-Nov-2020 03:01:24 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar.php on line 368
+[19-Nov-2020 05:34:55 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[19-Nov-2020 08:57:47 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[19-Nov-2020 08:57:50 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[19-Nov-2020 08:57:53 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[23-Nov-2020 08:13:20 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
+[23-Nov-2020 08:17:35 UTC] PHP Notice:  Undefined variable: ext_resume in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 584
+[23-Nov-2020 08:17:35 UTC] PHP Notice:  Undefined variable: ext_map in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 608
+[23-Nov-2020 08:17:35 UTC] PHP Notice:  Undefined variable: ext_essay in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 630
+[23-Nov-2020 08:17:35 UTC] PHP Notice:  Undefined variable: ext_photo in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 654
+[23-Nov-2020 08:25:56 UTC] PHP Notice:  Undefined variable: ext_resume in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 584
+[23-Nov-2020 08:25:56 UTC] PHP Notice:  Undefined variable: ext_map in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 608
+[23-Nov-2020 08:25:56 UTC] PHP Notice:  Undefined variable: ext_essay in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 630
+[23-Nov-2020 08:25:56 UTC] PHP Notice:  Undefined variable: ext_photo in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/reports/update_upload.php on line 654
+[02-Dec-2020 06:54:47 UTC] PHP Notice:  Undefined index: username in /home/irmr84fhuo6e/public_html/energreenph/yoorekka_hris/template/navbar_other.php on line 368
